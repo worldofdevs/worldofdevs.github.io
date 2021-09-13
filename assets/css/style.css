@@ -1471,8 +1471,8 @@ section {
 .clients .clients-slider .swiper-slide img {
   opacity: 0.5;
   transition: 0.3s;
-  width: 800px;
-  height: 200px;
+  width: 5000%;
+  height: 190%;
 }
 
 .clients .clients-slider .swiper-slide img:hover {
